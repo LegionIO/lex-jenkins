@@ -10,7 +10,7 @@ Legion Extension that connects LegionIO to Jenkins CI/CD via the Jenkins REST AP
 
 **GitHub**: https://github.com/LegionIO/lex-jenkins
 **License**: MIT
-**Version**: 0.1.0
+**Version**: 0.1.2
 
 ## Architecture
 
